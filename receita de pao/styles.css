@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {
+    background-image: url("paofundo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color:rgb(228, 175, 91)
+}
+h1 {
+    color:black; 
+    text-align: center;
+}
+hr {
+    border: 1px solid #000000;
+}
+h2{
+    color:black;
+    margin-left:100px;
+}
+.div-do-pao{
+    font-family:'Times New Roman', Times, serif;
+    font-size:medium;
+}
